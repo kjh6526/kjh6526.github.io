@@ -1,0 +1,6 @@
+@inproceedings{lim2024equigraspflow,
+  title={Equigraspflow: Se (3)-equivariant 6-dof grasp pose generative flows},
+  author={Lim, Byeongdo and Kim, Jongmin and Kim, Jihwan and Lee, Yonghyeon and Park, Frank C},
+  booktitle={8th Annual Conference on Robot Learning},
+  year={2024}
+}

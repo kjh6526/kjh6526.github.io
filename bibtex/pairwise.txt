@@ -1,0 +1,8 @@
+@inproceedings{kim2023pairwisenet,
+  title={PairwiseNet: Pairwise Collision Distance Learning for High-dof Robot Systems},
+  author={Kim, Jihwan and Park, Frank C},
+  booktitle={Conference on Robot Learning},
+  pages={2863--2877},
+  year={2023},
+  organization={PMLR}
+}

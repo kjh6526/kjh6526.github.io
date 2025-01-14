@@ -1,0 +1,10 @@
+@article{kim2022dsqnet,
+  title={DSQNet: a deformable model-based supervised learning algorithm for grasping unknown occluded objects},
+  author={Kim, Seungyeon and Ahn, Taegyun and Lee, Yonghyeon and Kim, Jihwan and Wang, Michael Yu and Park, Frank C},
+  journal={IEEE Transactions on Automation Science and Engineering},
+  volume={20},
+  number={3},
+  pages={1721--1734},
+  year={2022},
+  publisher={IEEE}
+}

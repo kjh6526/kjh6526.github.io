@@ -1,0 +1,8 @@
+@article{kim2024active,
+  title={Active learning of the collision distance function for high-DOF multi-arm robot systems},
+  author={Kim, Jihwan and Park, Frank Chongwoo},
+  journal={Robotica},
+  pages={1--15},
+  year={2024},
+  publisher={Cambridge University Press}
+}

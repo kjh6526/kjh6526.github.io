@@ -1,0 +1,10 @@
+@article{park2020learning,
+  title={Learning-based real-time detection of robot collisions without joint torque sensors},
+  author={Park, Kyu Min and Kim, Jihwan and Park, Jinhyuk and Park, Frank C},
+  journal={IEEE Robotics and Automation letters},
+  volume={6},
+  number={1},
+  pages={103--110},
+  year={2020},
+  publisher={IEEE}
+}

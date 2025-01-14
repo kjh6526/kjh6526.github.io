@@ -1,0 +1,5 @@
+@inproceedings{lim2024leveraging,
+  title={Leveraging Equivariant Representations of 3D Point Clouds for SO (3)-Equivariant 6-DoF Grasp Pose Generation},
+  author={Lim, Byeongdo and Kim, Jongmin and Kim, Jihwan and Lee, Yonghyeon and Park, Frank C},
+  booktitle={ICRA 2024 Workshop on 3D Visual Representations for Robot Manipulation}
+}
